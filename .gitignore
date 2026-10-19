@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+data/raw/*
+results/*
+!data/raw/.gitkeep
+!results/.gitkeep
